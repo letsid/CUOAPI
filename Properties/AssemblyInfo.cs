@@ -6,10 +6,10 @@ using System.Runtime.Versioning;
 using System.Security;
 using System.Security.Permissions;
 
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyTitle("CUO-API")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CUO-API")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
